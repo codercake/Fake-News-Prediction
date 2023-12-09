@@ -1,5 +1,6 @@
-Fake News Prediction using Machine Learning
-Overview
+Fake News 
+Prediction using Machine Learning
+
 This repository contains code for predicting fake news articles using machine learning techniques. The goal of this project is to build a model that can accurately classify news articles as either fake or real based on their content and features extracted from the text.
 
 Dataset
@@ -19,31 +20,25 @@ Prerequisites
 Python 3.x
 Required libraries (NumPy, Pandas, Scikit-learn, NLTK, etc.)
 Installation
-Clone the repository:
 
-bash
-Copy code
+Clone the repository:
 git clone https://github.com/your-username/fake-news-prediction.git
 Install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Running the Code
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd fake-news-prediction
 Train and evaluate the model:
 
-bash
-Copy code
+
 python train_model.py
 Make predictions:
 
-bash
-Copy code
+
 python predict.py
 Results
 We have achieved [mention the accuracy/evaluation metrics achieved by your best-performing model] on the test dataset using [mention the algorithm or technique used]. Refer to the documentation or code for more detailed results and analysis.
